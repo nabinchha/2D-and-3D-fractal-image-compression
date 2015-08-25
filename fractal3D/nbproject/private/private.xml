@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <data xmlns="http://www.netbeans.org/ns/profiler/1" version="0.9.1"/>
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1">
         <file>
             <url>src/Compress3DFast.java</url>
             <line>77</line>
         </file>
     </editor-bookmarks>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0">
+        <file>
+            <url>src/Compress3DFast.java</url>
+            <bookmark id="0">
+                <name/>
+                <line>77</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/Compress3DFast.java</file>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/Decompress3DFast.java</file>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/MainCanvas.java</file>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/Compress3D.java</file>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/Global.java</file>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/MyImage.java</file>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/AffineMap3D.java</file>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/Decompress3D.java</file>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/MyImage3d.java</file>
+            <file>file:/Volumes/Data%20Drive/Nabin/Documents/College/Senior/Fractals/NetBeansProjects/fractal3D/src/Util3D.java</file>
+        </group>
+    </open-files>
 </project-private>
