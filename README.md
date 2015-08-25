@@ -5,7 +5,7 @@ This is a project that I pursued for my senior colloquium at Susquehanna Univers
 
 Note: I am releasing this software as is. I am aware that the performances of the algorithms can be improved. If this domain of study interests you, please feel free to modify it as you may see fit.
 
-See NM_Fractal_Talk_2011.pptx for project slides.
+See [NM_Fractal_Talk_2011.pptx](https://github.com/nabinchha/2D-and-3D-fractal-image-compression/blob/master/NM_Fractal_Talk_2011.pptx) for project slides.
 
 Abstract (as written in 2011)
 --------
